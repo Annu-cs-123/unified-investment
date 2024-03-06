@@ -3,11 +3,11 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import Star from "../../assets/image/svg/Star.svg"
-import QuotesImage from "../../assets/image/svg/quotes.svg"
-import JhonImage from "../../assets/image/png/jhonHImage.png"
-import DenialImage from "../../assets/image/png/jhonImage.png"
-import VerticalLine from "../../assets/image/png/Line 2.png"
+import Star from "../../assets/image/svg/Star.svg";
+import QuotesImage from "../../assets/image/svg/quotes.svg";
+import JhonImage from "../../assets/image/png/jhonHImage.png";
+import DenialImage from "../../assets/image/png/jhonImage.png";
+import VerticalLine from "../../assets/image/png/Line 2.png";
 
 
 

@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
-import "../../assets/style/common.css"
-import Email from "../../assets/image/svg/Mail.svg"
-import Location from "../../assets/image/svg/location.svg"
-import phoneNumber from "../../assets/image/svg/Number.svg"
-import contactImage from "../../assets/image/png/contactImage.png"
+import "../../assets/style/common.css";
+import Email from "../../assets/image/svg/Mail.svg";
+import Location from "../../assets/image/svg/location.svg";
+import phoneNumber from "../../assets/image/svg/Number.svg";
+import contactImage from "../../assets/image/png/contactImage.png";
 
 function Contact() {
   return (

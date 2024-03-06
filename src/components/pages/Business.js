@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-import "../../assets/style/common.css"
+import "../../assets/style/common.css";
 
 function Business() {
   return (

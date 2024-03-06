@@ -1,8 +1,8 @@
 import React from "react";
 
-import "../../assets/style/common.css"
-import imageBlog2 from "../../assets/image/png/Imageblog2.png"
-import blogImg1 from "../../assets/image/png/Image Placeholder.png"
+import "../../assets/style/common.css";
+import imageBlog2 from "../../assets/image/png/Imageblog2.png";
+import blogImg1 from "../../assets/image/png/Image Placeholder.png";
 
 
 function Blog() {

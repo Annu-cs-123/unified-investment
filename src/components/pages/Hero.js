@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-import Header from '../common/Header'
-import "../../assets/style/common.css"
-import arroIcon from "../../assets/image/png/arrowIcon.png"
-import heroImage from "../../assets/image/png/Rectangle 156.png"
+import Header from '../common/Header';
+import "../../assets/style/common.css";
+import arroIcon from "../../assets/image/png/arrowIcon.png";
+import heroImage from "../../assets/image/png/Rectangle 156.png";
 
 function Hero() {
   return (
