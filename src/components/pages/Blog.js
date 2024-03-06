@@ -5,7 +5,7 @@ import imageBlog2 from "../../assets/image/png/Imageblog2.png"
 import blogImg1 from "../../assets/image/png/Image Placeholder.png"
 
 
-const Blog = () => {
+function Blog() {
 
   return (
     <section>

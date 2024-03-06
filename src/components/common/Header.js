@@ -1,12 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import { useMediaQuery } from "react-responsive";
 
 import logo from "../../assets/image/png/Unified Investment logo.png"
 
-const Header = ({ history }) => {
-  const [show, setShow] = useState(false);
-  const handleClose = () => setShow(false);
-  const handleShow = () => setShow(true);
+const Header = () => {
 
   const BeforeDesktop = ({ children }) => {
     const isBeforeDesktop = useMediaQuery({ maxWidth: 991.98 });
@@ -29,7 +26,6 @@ const Header = ({ history }) => {
           <div className="container z_index_100 d-flex justify-content-between align-items-center">
             <div className="nav-logo   cursor-pointer d-flex justify-content-center">
               <img
-                onClick={() => history.push("/")}
                 className="cursor-pointer"
                 src={logo}
                 alt="logo"
@@ -92,9 +88,7 @@ const Header = ({ history }) => {
               <img src={logo} alt="logo" />
             </div>
 
-            <div onClick={handleShow}>
-              {/* <img className="cursor-pointer" src={SmallScreenIcon} alt="" /> */}
-            </div>
+
             <div
               id="nav-icon1"
               className={`hamburger-menu`}

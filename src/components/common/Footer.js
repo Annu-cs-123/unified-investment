@@ -1,5 +1,6 @@
 import React from "react";
 
+import Media from "./Media";
 import "../../assets/style/common.css"
 import email from "../../assets/image/svg/Mail.svg"
 import phoneImage from "../../assets/image/svg/Number.svg"
@@ -7,7 +8,7 @@ import FacebookIcon from "../../assets/image/svg/facebook.svg";
 import InstagramIcon from "../../assets/image/svg/InstaIcon.svg";
 import LinkedinIcon from "../../assets/image/svg/LinkedIN.svg";
 import FooterLogo from "../../assets/image/png/Unified Investment logo.png"
-import Media from "./Media";
+
 
 function Footer() {
   return (

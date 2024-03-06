@@ -14,8 +14,9 @@ function Business() {
       </div>
       <div className="row justify-content-center align-items-center">
         <div className="col-auto">
-          <button className='individual-btn'><span style={{ color: "#906312" }}>FOR</span> INDIVIDUAL</button>
-          <button className='individual-btn'><span style={{ color: "#906312" }}>FOR</span> CORPORATE</button>
+          <button className='individual-btn' data-aos="fade-up" data-aos-duration="2000"><span style={{ color: "#906312" }}>FOR</span> INDIVIDUAL</button>
+          <button className='individual-btn' data-aos="fade-up"
+            data-aos-duration="2000"><span style={{ color: "#906312" }}>FOR</span> CORPORATE</button>
         </div>
 
       </div>

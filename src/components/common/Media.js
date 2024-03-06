@@ -1,7 +1,6 @@
 import React from 'react'
 
 import "../../assets/style/common.css"
-import mediaImg from "../../assets/image/png/Media & Publications.png"
 import forbesImg from "../../assets/image/png/forbesImg.png"
 import fortuneImg from "../../assets/image/png/fortuneImg.png"
 import outlookImg from "../../assets/image/png/outLookImg.png"
